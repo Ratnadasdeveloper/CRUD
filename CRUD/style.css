@@ -1,0 +1,39 @@
+/* Body styling */
+body {
+    background-color: rgb(18, 18, 57);
+    color: white;
+  }
+  
+  /* Table styling */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid white;
+  }
+  
+  /* Table cell styling */
+  td {
+    padding: 8px 16px;
+    border: 1px solid white;
+  }
+  
+  /* Header row styling */
+  .col {
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgb(164, 246, 10);
+    text-align: center;
+  }
+  
+  /* Data row styling */
+  tr {
+    background-color: rgb(165, 233, 255);
+    color: black;
+    text-align: center;
+  }
+  
+  /* Input field styling */
+  input {
+    font-size: 16px;
+  }
+  
